@@ -1,5 +1,3 @@
-md
-
 # E-commerce Product Classification
 
 Multimodal product classification using NLP and CNNs.
